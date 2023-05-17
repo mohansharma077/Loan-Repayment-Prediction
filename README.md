@@ -45,3 +45,7 @@ delinq_2yrs: The number of times the borrower had been 30+ days past due on a pa
 pub_rec: The borrower’s number of derogatory public records.
 
 not_fully_paid: indicates whether the loan was not paid back in full (the borrower either defaulted or the borrower was deemed unlikely to pay it back).
+
+<h2>Proposing Model</h2>
+
+![OIP](https://github.com/mohansharma077/Loan-Repayment-Prediction-using-Neural-networks-and-random-foerst-classifier/assets/104629829/3d36a736-c574-44fb-80ff-1700031be263)
