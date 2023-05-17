@@ -8,3 +8,4 @@
 <p>As a bank decides which applicants to provide loans, they may wish to predict if the applicant will default on the loan. Through automated feature engineering, we can identify the predictive patterns in the financial data that can be used to ensure that clients capable of repayment are not rejected.</p>
 
 ![download](https://github.com/mohansharma077/Loan-Repayment-Prediction-using-Neural-networks-and-random-foerst-classifier/assets/104629829/654c5d61-3861-4f22-9a65-0750c5ee65ef)
+<h2>Introduction</h2>
