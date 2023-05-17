@@ -49,3 +49,9 @@ not_fully_paid: indicates whether the loan was not paid back in full (the borrow
 <h2>Proposing Model</h2>
 
 ![OIP](https://github.com/mohansharma077/Loan-Repayment-Prediction-using-Neural-networks-and-random-foerst-classifier/assets/104629829/3d36a736-c574-44fb-80ff-1700031be263)
+
+![download](https://github.com/mohansharma077/Loan-Repayment-Prediction-using-Neural-networks-and-random-foerst-classifier/assets/104629829/ac195959-9bf1-4dbc-9441-0301d93716f7)
+
+![download](https://github.com/mohansharma077/Loan-Repayment-Prediction-using-Neural-networks-and-random-foerst-classifier/assets/104629829/e84eb3cf-5e1a-454e-9209-1c89757c8bdf)
+
+
