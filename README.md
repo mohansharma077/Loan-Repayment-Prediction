@@ -15,3 +15,4 @@
 <li>Investors (lenders) provide loans to borrowers in exchange for the promise of repayment with interest. That means the lender only makes profit (interest) if the borrower pays off the loan. However, if he/she doesn’t repay the loan, then the lender loses money.</li>
 
 <li>We’ll be using publicly available data from LendingClub.com. The data covers the 9,578 loans funded by the platform between May 2007 and February 2010. The interest rate is provided to us for each borrower. Therefore, so we’ll address the second question indirectly by trying to predict if the borrower will repay the loan by its mature date or not.</li>
+**Below is a short description of each feature in the data set:**
