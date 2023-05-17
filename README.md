@@ -16,7 +16,7 @@
 
 <li>We’ll be using publicly available data from LendingClub.com. The data covers the 9,578 loans funded by the platform between May 2007 and February 2010. The interest rate is provided to us for each borrower. Therefore, so we’ll address the second question indirectly by trying to predict if the borrower will repay the loan by its mature date or not.</li>
 
-**Below is a short description of each feature in the data set:**
+**Below is a short description of each feature in the data set:**</br>
 
 credit_policy: 1 if the customer meets the credit underwriting criteria of LendingClub.com, and 0 otherwise.
 
